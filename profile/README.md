@@ -6,7 +6,7 @@ Organization to store the practices done during the degree of Software Robotics 
 - AyED: Algoritmos y Estructuras de Datos   Done
 - DS: Diseño Software   Done
 - IA: Inteligencia Artificial
-- IdC: Ingeniería de Control
+- IdC: Ingeniería de Control   Done
 - LSS: Laboratorio de Sistemas  Done
 - MySR: Modelado y Simulación de Robots   Done
 - PySC: Planificación y Sistemas Cognitivos
