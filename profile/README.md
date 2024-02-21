@@ -7,7 +7,7 @@ Organization to store the practices done during the degree of Software Robotics 
 - DS: Diseño Software   Done
 - IA: Inteligencia Artificial
 - IdC: Ingeniería de Control
-- LSS: Laboratorio de Sistemas
+- LSS: Laboratorio de Sistemas  Done
 - MySR: Modelado y Simulación de Robots   Done
 - PySC: Planificación y Sistemas Cognitivos
 - RM: Robótica Movil   Done
