@@ -16,3 +16,8 @@ Organization to store the practices done during the degree of Software Robotics 
 - SSOO: Sistemas Operativos
 - SyA: Sensores y Actuadores
 - VA: Visión Artificial
+
+## Missing
+- FdA: Fundamentos de Automática
+- FRO: Fundamentos de Redes de Ordenadores
+- AMA: Ampliación de Matemática Aplicada
