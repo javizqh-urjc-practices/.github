@@ -22,3 +22,4 @@ Organization to store the practices done during the degree of Software Robotics 
 - FRO: Fundamentos de Redes de Ordenadores
 - AMA: Ampliación de Matemática Aplicada
 - DyNR: Deontología y Normativa en Robótica
+- RORyMI: Redes de Ordenadores para Robots y Máquinas Inteligentes
