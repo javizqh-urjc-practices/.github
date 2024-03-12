@@ -24,3 +24,4 @@ Organization to store the practices done during the degree of Software Robotics 
 ## Missing
 - FdA: Fundamentos de Automática
 - RORyMI: Redes de Ordenadores para Robots y Máquinas Inteligentes
+- RI: Robótica Industrial
