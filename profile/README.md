@@ -2,6 +2,8 @@
 Organization to store the practices done during the degree of Software Robotics Engineering.
 
 ## Index of the practices
+
+- AMA: Ampliación de Matemática Aplicada
 - ASR: Arquitectura Software para Robots
 - AyED: Algoritmos y Estructuras de Datos
 - DS: Diseño Software
@@ -21,5 +23,4 @@ Organization to store the practices done during the degree of Software Robotics 
 ## Missing
 - FdA: Fundamentos de Automática
 - FRO: Fundamentos de Redes de Ordenadores
-- AMA: Ampliación de Matemática Aplicada
 - RORyMI: Redes de Ordenadores para Robots y Máquinas Inteligentes
