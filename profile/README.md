@@ -8,6 +8,7 @@ Organization to store the practices done during the degree of Software Robotics 
 - AyED: Algoritmos y Estructuras de Datos
 - DS: Diseño Software
 - DyNR: Deontología y Normativa en Robótica
+- FRO: Fundamentos de Redes de Ordenadores
 - IA: Inteligencia Artificial 
 - IdC: Ingeniería de Control
 - LSS: Laboratorio de Sistemas
@@ -22,5 +23,4 @@ Organization to store the practices done during the degree of Software Robotics 
 
 ## Missing
 - FdA: Fundamentos de Automática
-- FRO: Fundamentos de Redes de Ordenadores
 - RORyMI: Redes de Ordenadores para Robots y Máquinas Inteligentes
