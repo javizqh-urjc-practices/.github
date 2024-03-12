@@ -5,6 +5,7 @@ Organization to store the practices done during the degree of Software Robotics 
 - ASR: Arquitectura Software para Robots
 - AyED: Algoritmos y Estructuras de Datos
 - DS: Diseño Software
+- DyNR: Deontología y Normativa en Robótica
 - IA: Inteligencia Artificial 
 - IdC: Ingeniería de Control
 - LSS: Laboratorio de Sistemas
@@ -21,5 +22,4 @@ Organization to store the practices done during the degree of Software Robotics 
 - FdA: Fundamentos de Automática
 - FRO: Fundamentos de Redes de Ordenadores
 - AMA: Ampliación de Matemática Aplicada
-- DyNR: Deontología y Normativa en Robótica
 - RORyMI: Redes de Ordenadores para Robots y Máquinas Inteligentes
