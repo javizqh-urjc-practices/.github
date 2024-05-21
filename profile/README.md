@@ -12,7 +12,6 @@ Organization to store the practices done during the degree of Software Robotics 
 - IA: Inteligencia Artificial 
 - IdC: Ingeniería de Control
 - LSS: Laboratorio de Sistemas
-- MySR: Modelado y Simulación de Robots
 - PySC: Planificación y Sistemas Cognitivos
 - RM: Robótica Movil
 - SDyC: Sistemas Distribuidos y Concurrentes
@@ -22,6 +21,7 @@ Organization to store the practices done during the degree of Software Robotics 
 - VA: Visión Artificial
 
 ## Missing
+- MySR: Modelado y Simulación de Robots
 - FdA: Fundamentos de Automática
 - RORyMI: Redes de Ordenadores para Robots y Máquinas Inteligentes
 - RI: Robótica Industrial
