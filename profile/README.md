@@ -22,6 +22,7 @@ Organization to store the practices done during the degree of Software Robotics 
 - SEyTR: Sistemas Empotrados y de Tiempo Real
 - SSOO: Sistemas Operativos
 - SyA: Sensores y Actuadores
+- SSR: Seguridad en Sistemas Robóticos
 - VA: Visión Artificial
 
 ## Missing
