@@ -17,6 +17,7 @@ Organization to store the practices done during the degree of Software Robotics 
 - PySC: Planificación y Sistemas Cognitivos
 - RI: Robótica Industrial
 - RM: Robótica Movil
+- RS: Robótics de Servicio
 - RORyMI: Redes de Ordenadores para Robots y Máquinas Inteligentes
 - SDyC: Sistemas Distribuidos y Concurrentes
 - SEyTR: Sistemas Empotrados y de Tiempo Real
