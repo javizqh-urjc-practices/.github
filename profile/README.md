@@ -4,6 +4,7 @@ Organization to store the practices done during the degree of Software Robotics 
 ## Index of the practices
 
 - AMA: Ampliación de Matemática Aplicada
+- AA: Aprendizaje Automático
 - ASR: Arquitectura Software para Robots
 - AyED: Algoritmos y Estructuras de Datos
 - DS: Diseño Software
